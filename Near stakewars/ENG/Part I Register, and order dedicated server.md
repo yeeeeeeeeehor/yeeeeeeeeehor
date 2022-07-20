@@ -2,6 +2,18 @@
 * Start: 13-07-2022
 * End: 13-09-2022
 
+## What do we need?
+
+1. Credit Card or PayPal with money - 30-50€
+
+2. The server, the instructions below👇
+
+3. And a program to manage our server remotely
+```
+(MobaXterm)[https://mobaxterm.mobatek.net/]
+(PuTTY)[https://www.putty.org/]
+
+```
 
 ## Part I Register, and order dedicated server
 
@@ -139,7 +151,34 @@ Registration here is standard and not complicated
 |------------------------- | ------------------ |
 | SEPA                     |                    |
 | BANK TRANSFER            |                    |
-| CREDIT CARD              |                    |
+| CREDIT CARD              |✅                  |
 | PAYPAL                   |                    |
 
 ![img](./images/register6.png)
+
+## Now we just have to wait until the server appears in our personal cabinet
+* Wait 1-10 minutes
+
+
+![img](./images/servers.png)
+
+
+Now when our server is displayed we can proceed to install the OS
+
+Click on our server, click on the Linux tab and here you will find the following repositories to choose from
+
+
+We recommend distributions that have a checkmark ✅
+
+
+| Linux                       | Choice             |
+|---------------------------- | ------------------ |
+| Alma Linux                  |                    |                   
+| Arch Linux                  |                    |
+| CentOS                      |                    |
+| Debian 10                   | ✅                 |
+| Debian 11                   | ✅                 |
+| Rocky Linux                 |                    |
+| Ubuntu 18.04.5 Lts minimal  | ✅                 |
+| Ubuntu 20.04.3 Lts minimal  | ✅                 |
+| Ubuntu 22.04 Lts base       | ✅                 |
